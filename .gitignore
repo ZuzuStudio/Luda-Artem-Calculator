@@ -3,6 +3,6 @@
 *.depend
 *.layout*
 *~
-obj/
-bin/
+*/obj/
+*/bin/
 *.save
